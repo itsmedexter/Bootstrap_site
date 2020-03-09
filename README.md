@@ -1,7 +1,6 @@
-# Project Title
-Bootstrap Homework 2
+# First use of Bootstrap
 
-First homework assignment redone using Bootstrap. No seperate local css style sheet. All Bootstrap CSS.
+Website done using Bootstrap. No seperate local css style sheet. All Bootstrap CSS.
 
 ## Getting Started
 
@@ -33,14 +32,14 @@ Second is keeping the code simple in portfolio.hmtl images. If you see the begin
 
 ## Deployed Link
 
-* [See Live Site](https://itsmedexter.github.io/unit02_homework/)
+* [See Live Site](https://itsmedexter.github.io/Bootstrap_site/)
 
 
 ## Authors
 
 Dexter Valencia 
 
-- [Link to Portfolio Site](https://itsmedexter.github.io/unit02_homework/)
+- [Link to Portfolio Site](https://github.com/itsmedexter/Bootstrap_site)
 - [Link to Github](https://github.com/itsmedexter)
 - [Link to LinkedIn](https://www.linkedin.com/in/dextervalencia/)
 
